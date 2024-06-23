@@ -1,5 +1,5 @@
 ## Hi, I'm Oscar Sanchez 😊
-👋 _Welcome to my GitHub profile._
+👋 _Welcome to my GitHub profile_
 <br>
 🔍 _Here you can take a look at the content I am learning and developing_
 
