@@ -1,4 +1,4 @@
-## I'm Oscar 😊
+## Hi, I'm Oscar Sanchez 😊
 👋 _Bienvenid@ a mi perfil de GitHub._
 <br>
 🔍 _Aquí podrás echar un vistazo al contenido que estoy aprendiendo y desarrollando_
