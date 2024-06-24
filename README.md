@@ -16,8 +16,8 @@
 <em>🛠️ Languages - Frameworks - Tools 🛠️</em>
 <br><br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,html,css&theme=light" />
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,eclipse&theme=light" />
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,eclipse&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
   <!-- &perline=3 -->
 </a>
