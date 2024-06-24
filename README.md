@@ -10,8 +10,9 @@
 <!-- &exclude_repo=JAVA,PSP -->
 <!-- &hide=JAVA,PSP -->
 
+<hr>
 
-<em>🛠️ Languages - Frameworks - Tools 🛠️</em>
+<strong><em>🛠️ Languages - Frameworks - Tools 🛠️</em></strong>
 <br><br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,html,css&theme=dark" />
