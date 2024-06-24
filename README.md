@@ -10,8 +10,6 @@
 <!-- &exclude_repo=JAVA,PSP -->
 <!-- &hide=JAVA,PSP -->
 
-<hr>
-<br>
 
 <em>🛠️ Languages - Frameworks - Tools 🛠️</em>
 <br><br>
