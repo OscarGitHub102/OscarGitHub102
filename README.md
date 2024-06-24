@@ -13,4 +13,11 @@
 <hr>
 <br>
 
-🛠️ _LANGUAGES - FRAMEWORKS - TOOLS_ 🛠️
+<em>🛠️ Languages - Frameworks - Tools 🛠️</em>
+<br><br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,html,css&theme=light" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,eclipse&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" />
+  <!-- &perline=3 -->
+</a>
