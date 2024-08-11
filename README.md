@@ -18,5 +18,6 @@
   <img src="https://skillicons.dev/icons?i=java,html,css&theme=dark" />
   <img src="https://skillicons.dev/icons?i=androidstudio,vscode,eclipse&theme=dark" />
   <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
   <!-- &perline=3 -->
 </a>
