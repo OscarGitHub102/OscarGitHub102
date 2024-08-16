@@ -5,8 +5,8 @@
 <br>
 🎓 Multiplatform Application Development
 
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarGitHub102&exclude_repo=PSP&layout=donut&hide_border=true&text_color=000000"> 
-<!-- <img alt="top langs donut" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarGitHub102&exclude_repo=PSP&layout=compact&hide_border=true&text_color=000000"> -->
+<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarGitHub102&exclude_repo=PSP,Web&layout=donut&hide_border=true&text_color=000000"> 
+<!-- <img alt="top langs donut" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarGitHub102&exclude_repo=PSP,Web&layout=compact&hide_border=true&text_color=000000"> -->
 <!-- &exclude_repo=JAVA,PSP -->
 <!-- &hide=JAVA,PSP -->
 
