@@ -14,13 +14,16 @@
 
 <strong><em>🛠️ Languages - Frameworks - Tools 🛠️</em></strong>
 <br><br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,html,css&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,eclipse&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
-  <!-- &perline=3 -->
-</a>
+
+<!--
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,eclipse&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
+    <!-- &perline=3 -->
+  </a>
+
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin-right: 20px;"/>
