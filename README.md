@@ -1,4 +1,6 @@
-<!-- ![image](https://github.com/user-attachments/assets/8a955276-e7ac-4a07-91a8-30c359f450d0) -->
+<!--![image](./banner.png)
+<img width="800" src="./banner.png"/>
+-->
 ## Hi, I'm Oscar Sanchez 😊
 👋 Welcome to my GitHub profile
 <br>
